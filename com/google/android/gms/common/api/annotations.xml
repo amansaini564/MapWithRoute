@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
